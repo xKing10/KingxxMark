@@ -1,2 +1,3 @@
 # KingxxMark
-I am newbie here at GitHub
+# Learn basic SQL with me.
+# Every error is a challenge.
